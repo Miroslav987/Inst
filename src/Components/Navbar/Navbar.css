@@ -1,0 +1,22 @@
+#navList {
+  display: flex;
+  padding-top: 40px;
+  color: white;
+}
+
+#navListImg {
+  height: 32px;
+  width: 32px;
+  filter: invert(1);
+}
+
+#navListtx {
+  font-weight: 700;
+  font-size: 18px;
+  padding-left: 20px;
+  letter-spacing: 0.5px;
+}
+a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}

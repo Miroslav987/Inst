@@ -1,0 +1,27 @@
+#form-add {
+  display: flex;
+  flex-direction: column;
+}
+
+#form-add input {
+  padding: 30px;
+}
+
+#outlined-basic {
+  width: 400px;
+  height: 10px;
+  color: white;
+}
+
+.outlined-basic label {
+  color: white;
+}
+
+.outlined-basic:hover {
+  border: 2px solid white;
+  z-index: 999;
+}
+#btn_add {
+  background-color: aliceblue;
+  color: black;
+}

@@ -1,0 +1,10 @@
+#list {
+  width: 800px;
+}
+
+#card {
+  color: white;
+  background: none;
+  margin-top: 100px;
+  /* border: 1px solid #383838; */
+}
